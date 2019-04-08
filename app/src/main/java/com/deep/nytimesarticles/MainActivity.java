@@ -22,13 +22,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.deep.nytimesarticles.Models.ArticlesModel;
-import com.deep.nytimesarticles.Models.ArticlesModelResponse;
+
 import com.deep.nytimesarticles.Models.Result;
 import com.deep.nytimesarticles.ViewModels.ArticleViewModel;
 import com.deep.nytimesarticles.adapters.ArticleRecyclerAdapter;
-import com.deep.nytimesarticles.ViewModels.ArticleViewModel;
-import com.deep.nytimesarticles.adapters.ArticleRecyclerAdapter;
+
 
 import java.util.List;
 
